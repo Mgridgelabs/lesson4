@@ -1,0 +1,2 @@
+ssh key vs token based key
+ssh-keygen -t ed25519 -C "mainainandungu@gmail.com"
